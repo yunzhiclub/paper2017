@@ -1,0 +1,27 @@
+TY  - JOUR
+T1  - Experimental evaluation of a flexible I/O architecture for accelerating workflow engines in ultrascale environments
+JO  - Parallel Computing
+VL  - 61
+IS  - 
+SP  - 52
+EP  - 67
+PY  - 2017/1//
+T2  - Special Issue on 2015 Workshop on Data Intensive Scalable Computing Systems (DISCS-2015)
+AU  - Rodrigo Duro, Francisco
+AU  - Garcia Blas, Javier
+AU  - Isaila, Florin
+AU  - Carretero, Jesus
+AU  - Wozniak, Justin M.
+AU  - Ross, Rob
+SN  - 0167-8191
+DO  - https://doi.org/10.1016/j.parco.2016.10.003
+UR  - http://www.sciencedirect.com/science/article/pii/S0167819116301053
+KW  - Workflow
+KW  - I/O acceleration
+KW  - High-performance computing
+KW  - Cloud computing
+AB  - Abstract
+The increasing volume of scientific data and the limited scalability and performance of storage systems are currently presenting a significant limitation for the productivity of the scientific workflows running on both high-performance computing (HPC) and cloud platforms. Clearly needed is better integration of storage systems and workflow engines to address this problem. This paper presents and evaluates a novel solution that leverages codesign principles for integrating Hercules—an in-memory data store—with a workflow management system. We consider four main aspects: workflow representation, task scheduling, task placement, and task termination. The experimental evaluation on both cloud and HPC systems demonstrates significant performance and scalability improvements over existing state-of-the-art approaches.
+ER  - 
+
+
